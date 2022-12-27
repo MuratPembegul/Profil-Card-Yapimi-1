@@ -1,1 +1,1 @@
-# Profil-Card-Yapimi-1
+# Profil-Card-Yapimi-1-2 İçinde CSS vardır.
